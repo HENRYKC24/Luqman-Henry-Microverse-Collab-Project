@@ -1,0 +1,18 @@
+@media (max-width: 1025px) {
+    :root {
+    }
+}
+
+#welcome-section {
+    height: 100vw;
+}
+
+#navbar ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    list-style-type: none;
+}
+#navbar ul li {
+    margin-right: 50px;
+}
